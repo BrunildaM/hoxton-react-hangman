@@ -1,4 +1,17 @@
 .App {
+  display: grid;
+  place-content: center;
   text-align: center;
+  margin-top: 150px;
+}
+
+.word{
+  font-size: large;
+
+}
+
+.wrongGuesses{
+  font-size: large;
+  color: red;
 }
 
